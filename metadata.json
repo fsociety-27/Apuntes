@@ -1,0 +1,6 @@
+{
+  "name": "Apuntes de Matemáticas Wacom",
+  "description": "Lienzo de dibujo para tabletas gráficas con editor LaTeX, trazado de funciones interactivo y asistente IA para resolver y digitalizar fórmulas matemáticas escritas a mano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
